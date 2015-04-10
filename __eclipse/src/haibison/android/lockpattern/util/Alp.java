@@ -18,9 +18,9 @@ package haibison.android.lockpattern.util;
 
 /**
  * System utilities.
- * 
+ *
  * @author Hai Bison
- * 
+ *
  */
 public class Alp {
 
@@ -48,11 +48,11 @@ public class Alp {
     /**
      * The library package name.
      */
-    public static final String LIB_PACKAGE_NAME = "com.haibison.android.lockpattern";
+    public static final String LIB_PACKAGE_NAME = "haibison.android.lockpattern";
 
     /**
      * This unique ID is used for some stuffs such as preferences' file name.
-     * 
+     *
      * @since v2.6 beta
      */
     public static final String UID = "a6eedbe5-1cf9-4684-8134-ad4ec9f6a131";
